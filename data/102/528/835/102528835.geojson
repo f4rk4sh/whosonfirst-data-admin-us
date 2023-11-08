@@ -1,1 +1,73 @@
-{"id":102528835,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.0,"geom:area_square_m":0.0,"geom:bbox":"-117.2725,34.0677,-117.2725,34.0677","geom:latitude":71.218999,"geom:longitude":72.053699,"iso:country":"US","mz:hierarchy_label":1,"mz:is_current":-1,"mz:min_zoom":13.0,"name:cym_x_preferred":["Maes Awyr Rhyngwladol San Bernardino"],"name:eng_x_preferred":["San Bernardino County Heliport"],"name:eng_x_variant":["SBD","SBT"],"name:fas_x_preferred":["فرودگاه بین‌المللی سن برناردینو"],"name:hye_x_preferred":["Սան Բեռնարդինոյի միջազգային օդանավակայան"],"name:nav_x_preferred":["Kʼaabééstsohdi chidí naatʼaʼí ńdinibįįhígi"],"name:ron_x_preferred":["Aeroportul Internațional San Bernardino"],"name:tgk_x_preferred":["Фурудгоҳи бин‌алмилалӣ син брнордину"],"name:urd_x_preferred":["سان برنارڈینو انٹرنیشنل ہوائی اڈا"],"name:vie_x_preferred":["Sân bay quốc tế San Bernardino"],"oa:elevation_ft":"1038","oa:type":"closed","src:geom":"ourairports","src:geom_alt":[],"woe:hierarchy":{"country_id":23424977,"county_id":12587705,"planet_id":1,"state_id":2347563},"wof:belongsto":[85865479,102191575,85633793,85923951,102085395,85688637],"wof:breaches":[],"wof:concordances":{"faa:code":"SBD","gp:id":12523215,"iata:code":"SBT","icao:code":"SBT","oa:id":"313474","wd:id":"Q1626991"},"wof:country":"US","wof:geomhash":"e8dee654fed67b8ae1ee1a2efd3e1c55","wof:hierarchy":[{"campus_id":102528835,"continent_id":102191575,"country_id":85633793,"county_id":102085395,"locality_id":85923951,"neighbourhood_id":85865479,"region_id":85688637}],"wof:id":102528835,"wof:lastmodified":1690880641,"wof:name":"San Bernardino County Heliport","wof:parent_id":85865479,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-us","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-117.2725,34.0677,-117.2725,34.0677],"geometry":{"coordinates":[-117.2725,34.0677],"type":"Point"}}
+{
+  "id": 102528835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "-117.2725,34.0677,-117.2725,34.0677",
+    "geom:latitude": 71.218999,
+    "geom:longitude": 72.053699,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 13.0,
+    "name:cym_x_preferred": ["Maes Awyr Rhyngwladol San Bernardino"],
+    "name:eng_x_preferred": ["San Bernardino County Heliport"],
+    "name:eng_x_variant": ["SBD", "SBT"],
+    "name:fas_x_preferred": ["فرودگاه بین‌المللی سن برناردینو"],
+    "name:hye_x_preferred": ["Սան Բեռնարդինոյի միջազգային օդանավակայան"],
+    "name:nav_x_preferred": ["Kʼaabééstsohdi chidí naatʼaʼí ńdinibįįhígi"],
+    "name:ron_x_preferred": ["Aeroportul Internațional San Bernardino"],
+    "name:tgk_x_preferred": ["Фурудгоҳи бин‌алмилалӣ син брнордину"],
+    "name:urd_x_preferred": ["سان برنارڈینو انٹرنیشنل ہوائی اڈا"],
+    "name:vie_x_preferred": ["Sân bay quốc tế San Bernardino"],
+    "oa:elevation_ft": "1038",
+    "oa:type": "closed",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587705,
+      "planet_id": 1,
+      "state_id": 2347563
+    },
+    "wof:belongsto": [
+      85865479, 102191575, 85633793, 85923951, 102085395, 85688637
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "SBD",
+      "gp:id": 12523215,
+      "iata:code": "SBT",
+      "icao:code": "SBT",
+      "oa:id": "313474",
+      "wd:id": "Q1626991"
+    },
+    "wof:country": "US",
+    "wof:geomhash": "e8dee654fed67b8ae1ee1a2efd3e1c55",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528835,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923951,
+        "neighbourhood_id": 85865479,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 102528835,
+    "wof:lastmodified": 1690880641,
+    "wof:name": "San Bernardino County Heliport",
+    "wof:parent_id": 85865479,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": ["airport"]
+  },
+  "bbox": [-117.2725, 34.0677, -117.2725, 34.0677],
+  "geometry": { "coordinates": [-117.2725, 34.0677], "type": "Point" }
+}

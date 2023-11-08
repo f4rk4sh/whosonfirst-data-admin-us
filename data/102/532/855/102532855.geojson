@@ -1,1 +1,81 @@
-{"id":102532855,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.0,"geom:area_square_m":0.0,"geom:bbox":"-103.428001,46.187,-103.428001,46.187","geom:latitude":46.168079,"geom:longitude":-103.301964,"gn:elevation":901,"iso:country":"US","lbl:latitude":46.18751,"lbl:longitude":-103.4288,"mz:hierarchy_label":1,"mz:is_current":1,"mz:min_zoom":13.0,"name:ceb_x_preferred":["Bowman Municipal Airport"],"name:eng_x_preferred":["Bowman Municipal Airport"],"name:eng_x_variant":["BPP","BWM","KBPP"],"name:fas_x_preferred":["فرودگاه شهری بوومن"],"name:jpn_x_preferred":["Bowman市営空港"],"name:ron_x_preferred":["Aeroportul Municipal Bowman"],"name:rus_x_preferred":["Боумен"],"name:tgk_x_preferred":["Фурудгоҳи шаҳре бувмн"],"name:urd_x_preferred":["بومین میونسپل ہوائی اڈا"],"name:zho_x_preferred":["鮑曼市立機場"],"oa:elevation_ft":"2958","oa:type":"small_airport","src:centroid_lbl":"geonames","src:geom":"ourairports","src:geom_alt":[],"wd:wordcount":209,"woe:hierarchy":{"country_id":23424977,"county_id":12589479,"planet_id":1,"state_id":2347593},"wof:belongsto":[85688525,102191575,404480287,85633793,1729469909,102081521],"wof:breaches":[],"wof:concordances":{"faa:code":"BPP","gn:id":5688131,"gp:id":12518910,"iata:code":"BWM","icao:code":"KBPP","oa:id":"19403","wd:id":"Q3813531","wk:page":"Bowman_Municipal_Airport"},"wof:country":"US","wof:geomhash":"0069ea442f6f8232412e7264a5c16421","wof:hierarchy":[{"campus_id":102532855,"continent_id":102191575,"country_id":85633793,"county_id":102081521,"localadmin_id":404480287,"locality_id":1729469909,"neighbourhood_id":-1,"region_id":85688525}],"wof:id":102532855,"wof:lastmodified":1613746968,"wof:name":"Bowman Municipal Airport","wof:parent_id":1729469909,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-us","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-103.428001,46.187,-103.428001,46.187],"geometry":{"coordinates":[-103.428001,46.187],"type":"Point"}}
+{
+  "id": 102532855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "-103.428001,46.187,-103.428001,46.187",
+    "geom:latitude": 46.168079,
+    "geom:longitude": -103.301964,
+    "gn:elevation": 901,
+    "iso:country": "US",
+    "lbl:latitude": 46.18751,
+    "lbl:longitude": -103.4288,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13.0,
+    "name:ceb_x_preferred": ["Bowman Municipal Airport"],
+    "name:eng_x_preferred": ["Bowman Municipal Airport"],
+    "name:eng_x_variant": ["BPP", "BWM", "KBPP"],
+    "name:fas_x_preferred": ["فرودگاه شهری بوومن"],
+    "name:jpn_x_preferred": ["Bowman市営空港"],
+    "name:ron_x_preferred": ["Aeroportul Municipal Bowman"],
+    "name:rus_x_preferred": ["Боумен"],
+    "name:tgk_x_preferred": ["Фурудгоҳи шаҳре бувмн"],
+    "name:urd_x_preferred": ["بومین میونسپل ہوائی اڈا"],
+    "name:zho_x_preferred": ["鮑曼市立機場"],
+    "oa:elevation_ft": "2958",
+    "oa:type": "small_airport",
+    "src:centroid_lbl": "geonames",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "wd:wordcount": 209,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12589479,
+      "planet_id": 1,
+      "state_id": 2347593
+    },
+    "wof:belongsto": [
+      85688525, 102191575, 404480287, 85633793, 1729469909, 102081521
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "BPP",
+      "gn:id": 5688131,
+      "gp:id": 12518910,
+      "iata:code": "BWM",
+      "icao:code": "KBPP",
+      "oa:id": "19403",
+      "wd:id": "Q3813531",
+      "wk:page": "Bowman_Municipal_Airport"
+    },
+    "wof:country": "US",
+    "wof:geomhash": "0069ea442f6f8232412e7264a5c16421",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102532855,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081521,
+        "localadmin_id": 404480287,
+        "locality_id": 1729469909,
+        "neighbourhood_id": -1,
+        "region_id": 85688525
+      }
+    ],
+    "wof:id": 102532855,
+    "wof:lastmodified": 1613746968,
+    "wof:name": "Bowman Municipal Airport",
+    "wof:parent_id": 1729469909,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": ["airport"]
+  },
+  "bbox": [-103.428001, 46.187, -103.428001, 46.187],
+  "geometry": { "coordinates": [-103.428001, 46.187], "type": "Point" }
+}

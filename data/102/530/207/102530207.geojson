@@ -1,1 +1,71 @@
-{"id":102530207,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.0,"geom:area_square_m":0.0,"geom:bbox":"-158.134995,61.867901,-158.134995,61.867901","geom:latitude":35.932365,"geom:longitude":-78.244226,"iso:country":"US","mz:hierarchy_label":1,"mz:is_current":1,"mz:min_zoom":13.0,"name:arz_x_preferred":["مطار كروكيد كريك"],"name:ceb_x_preferred":["Crooked Creek Airport"],"name:eng_x_preferred":["Crooked Creek Airport"],"name:eng_x_variant":["CJX","CKD"],"name:fas_x_preferred":["فرودگاه کروکد کریک"],"name:ron_x_preferred":["Aeroportul Crooked Creek"],"name:rus_x_preferred":["Крукид-Крик"],"name:tgk_x_preferred":["Фурудгоҳи крукд крик"],"name:zho_x_preferred":["Crooked Creek機場"],"oa:elevation_ft":"178","oa:type":"small_airport","src:geom":"ourairports","src:geom_alt":[],"wd:wordcount":143,"woe:hierarchy":{"country_id":23424977,"county_id":12587557,"planet_id":1,"state_id":2347560},"wof:belongsto":[85688573,102191575,85633793,85916815,102085877],"wof:breaches":[],"wof:concordances":{"faa:code":"CJX","gp:id":12524616,"iata:code":"CKD","icao:code":"CJX","oa:id":"16716","wd:id":"Q1658297","wk:page":"Crooked_Creek_Airport"},"wof:country":"US","wof:geomhash":"194ef2329704f2865870796f0e4631c9","wof:hierarchy":[{"campus_id":102530207,"continent_id":102191575,"country_id":85633793,"county_id":102085877,"locality_id":85916815,"region_id":85688573}],"wof:id":102530207,"wof:lastmodified":1690880772,"wof:name":"Crooked Creek Airport","wof:parent_id":85916815,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-us","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-158.134995,61.867901,-158.134995,61.867901],"geometry":{"coordinates":[-158.134995,61.867901],"type":"Point"}}
+{
+  "id": 102530207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "-158.134995,61.867901,-158.134995,61.867901",
+    "geom:latitude": 35.932365,
+    "geom:longitude": -78.244226,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13.0,
+    "name:arz_x_preferred": ["مطار كروكيد كريك"],
+    "name:ceb_x_preferred": ["Crooked Creek Airport"],
+    "name:eng_x_preferred": ["Crooked Creek Airport"],
+    "name:eng_x_variant": ["CJX", "CKD"],
+    "name:fas_x_preferred": ["فرودگاه کروکد کریک"],
+    "name:ron_x_preferred": ["Aeroportul Crooked Creek"],
+    "name:rus_x_preferred": ["Крукид-Крик"],
+    "name:tgk_x_preferred": ["Фурудгоҳи крукд крик"],
+    "name:zho_x_preferred": ["Crooked Creek機場"],
+    "oa:elevation_ft": "178",
+    "oa:type": "small_airport",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "wd:wordcount": 143,
+    "woe:hierarchy": {
+      "country_id": 23424977,
+      "county_id": 12587557,
+      "planet_id": 1,
+      "state_id": 2347560
+    },
+    "wof:belongsto": [85688573, 102191575, 85633793, 85916815, 102085877],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "faa:code": "CJX",
+      "gp:id": 12524616,
+      "iata:code": "CKD",
+      "icao:code": "CJX",
+      "oa:id": "16716",
+      "wd:id": "Q1658297",
+      "wk:page": "Crooked_Creek_Airport"
+    },
+    "wof:country": "US",
+    "wof:geomhash": "194ef2329704f2865870796f0e4631c9",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102530207,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085877,
+        "locality_id": 85916815,
+        "region_id": 85688573
+      }
+    ],
+    "wof:id": 102530207,
+    "wof:lastmodified": 1690880772,
+    "wof:name": "Crooked Creek Airport",
+    "wof:parent_id": 85916815,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-us",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": ["airport"]
+  },
+  "bbox": [-158.134995, 61.867901, -158.134995, 61.867901],
+  "geometry": { "coordinates": [-158.134995, 61.867901], "type": "Point" }
+}
