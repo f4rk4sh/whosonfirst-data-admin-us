@@ -9,16 +9,17 @@
     "geom:bbox":"125.830002,-1.87579,125.830002,-1.87579",
     "geom:latitude":-1.87579,
     "geom:longitude":125.830002,
-    "iso:country":"US",
+    "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
-        "Malone Dufort Airport"
+        "Falabisahaya Airport"
     ],
     "name:eng_x_variant":[
         "MAL",
-        "WAPE"
+        "WAPE",
+        "Mangole Airport, Falabisahaya"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0644\u0648\u0646-\u062f\u0648\u0641\u0648\u0631\u062a"
@@ -48,7 +49,7 @@
         "icao:code":"WAPE",
         "oa:id":"41443"
     },
-    "wof:country":"US",
+    "wof:country":"ID",
     "wof:geomhash":"2bb647e5fc08910d971d9645dde72e6f",
     "wof:hierarchy":[
         {
@@ -61,7 +62,7 @@
     ],
     "wof:id":102533831,
     "wof:lastmodified":1566608582,
-    "wof:name":"Malone Dufort Airport",
+    "wof:name":"Falabisahaya Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-us",
