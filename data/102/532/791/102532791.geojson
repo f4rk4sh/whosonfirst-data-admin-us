@@ -67,7 +67,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12518950,
-        "wd:id":"Q3887604"
+        "wd:id":"Q3887604",
+        "iata:code":"SDM"
     },
     "wof:country":"US",
     "wof:geom_alt":[
