@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"125.830002,-1.87579,125.830002,-1.87579",
-    "geom:latitude":-1.87579,
-    "geom:longitude":125.830002,
+    "geom:bbox":"125.48225,-1.78226,125.48225,-1.78226",
+    "geom:latitude":-1.78226,
+    "geom:longitude":125.48225,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -73,10 +73,10 @@
     ]
 },
   "bbox": [
-    125.830002,
-    -1.87579,
-    125.830002,
-    -1.87579
+    125.48225,
+    -1.78226,
+    125.48225,
+    -1.78226
 ],
-  "geometry": {"coordinates":[125.83000199999999,-1.87579],"type":"Point"}
+  "geometry": {"coordinates":[125.48225,-1.78226],"type":"Point"}
 }
